@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
+.header h2 {
+    font-size: 18px;
+    color: grey;
+}
+.header h2 span {
+    font-size: 25px;
+}
+.quantity {
+    color: black;
+}
+.reading {
+    color: green;
+}
+.finish {
+    color: tomato;
+}
+

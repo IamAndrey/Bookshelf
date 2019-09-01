@@ -1,0 +1,8 @@
+.app-list-item, .item-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item-info {
+    margin-left: 20px;
+}

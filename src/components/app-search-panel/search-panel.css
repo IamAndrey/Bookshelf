@@ -1,0 +1,14 @@
+
+.search-panel {
+    justify-content: space-between;
+    align-items: center;
+}
+.search-panel-content {
+    width: 100%;
+}
+.search-panel-content .input {
+    width: 90%;
+}
+.btn {
+    margin-left: 5px;
+}
